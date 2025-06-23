@@ -18,15 +18,15 @@
 
 ## 产品截图
 
-![image-20250623134358262](C:\Users\YaoDaoMing\AppData\Roaming\Typora\typora-user-images\image-20250623134358262.png)
+![image-20250623134358262](./image-20250623134358262.png)
 
-![image-20250623134441690](C:\Users\YaoDaoMing\AppData\Roaming\Typora\typora-user-images\image-20250623134441690.png)
+![image-20250623134441690](./image-20250623134441690.png)
 
-![image-20250623134500900](C:\Users\YaoDaoMing\AppData\Roaming\Typora\typora-user-images\image-20250623134500900.png)
+![image-20250623134500900](./image-20250623134500900.png)
 
-![image-20250623134530146](C:\Users\YaoDaoMing\AppData\Roaming\Typora\typora-user-images\image-20250623134530146.png)
+![image-20250623134530146](./image-20250623134530146.png)
 
-![image-20250623134548312](C:\Users\YaoDaoMing\AppData\Roaming\Typora\typora-user-images\image-20250623134548312.png)
+![image-20250623134548312](./image-20250623134548312.png)
 
 
 
