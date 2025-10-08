@@ -2,6 +2,10 @@
 
 > [!WARNING]
 >
+> 如有任何bug或者是Readme文件内容有缺失的，请立即反馈，反馈方式：在本仓库的顶部导航栏选择Issues，提交Issue即可！
+>
+> 或者发送电子邮件给我们也行。
+> 
 > 本文件仅介绍Github版本的Hatasoft Calculator2！
 >
 > B站：Hatasoft工作室
@@ -39,3 +43,4 @@
 # 版权
 
 ©Copyright 2025 Hatasoft工作室 版权所有
+
